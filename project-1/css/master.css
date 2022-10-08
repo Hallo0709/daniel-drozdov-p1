@@ -1,0 +1,25 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+    color: #253231;
+}
+
+h1 {
+    color: #2b2b2b;
+    background-color: #eee;
+}
+
+
+figcaption span{
+    font-size: .5em;
+}
+
+p#website-description{
+    margin: 20px 0 20px 0;
+    text-align: center;
+}
+
+div.review{
+    padding: 10px;
+    background-color: #eee;
+    margin: 20px 0 20px 0;
+}
